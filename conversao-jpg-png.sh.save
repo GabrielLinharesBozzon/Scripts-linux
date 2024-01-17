@@ -1,0 +1,4 @@
+
+#!/bin/bash
+
+x=~b $x/$1.jpg  $x/$1.png
